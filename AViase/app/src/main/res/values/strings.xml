@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AViase</string>
+    <string name="flight_table_description">Flight information </string>
+</resources>
